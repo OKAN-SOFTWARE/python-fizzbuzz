@@ -75,9 +75,3 @@ the module is imported. The function prints results directly and returns `None`.
 Pass a positive integer for `n`. If `n` is zero or negative, the loop prints
 nothing. The `int` type hint documents the expected input; it does not validate it.
 
-## Files to upload
-
-- `fizzBuzz.py`: the program and explanatory comments.
-- `README.md`: this documentation.
-- `.gitignore`: excludes Python caches, virtual environments, and local settings
-  when using Git.
